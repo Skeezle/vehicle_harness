@@ -1,4 +1,4 @@
-#skeezle-harness (standalone configurable)
+#skeezle_harness (standalone configurable)
 
 A fully standalone harness + seatbelt resource for Qbox servers using `ox_inventory`, `ox_lib`, and `oxmysql`.
 
