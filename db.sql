@@ -1,0 +1,2 @@
+ALTER TABLE `player_vehicles`
+    ADD COLUMN IF NOT EXISTS `harness` TINYINT(1) NOT NULL DEFAULT 0;
