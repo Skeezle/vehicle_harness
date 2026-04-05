@@ -71,3 +71,6 @@ Open `shared/config.lua`.
 - A progress bar appears during installation.
 - On success, the item is removed from inventory.
 - The vehicle record is updated in the database and the installed harness is treated as available for every seat in that vehicle.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this script, including for commercial use, as long as the original license notice is included.
